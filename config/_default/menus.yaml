@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Sobre
+  - name: Sobre min
     url: '#about'
     weight: 10
   - name: Blogue

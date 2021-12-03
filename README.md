@@ -1,2 +1,2 @@
 # LEEME 
-Aquí iremos engadindo aquelas novidades e cousas pendentes por facer así como unha breve eplicación do proxecto que temos entre mans.
+Pequeno proxecto para crear unha web ou blogue persoal. (Decembro 2021)
