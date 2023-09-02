@@ -13,10 +13,10 @@ main:
   - name: Proxectos
     url: '#projects'
     weight: 30
-  - name: Conferencias
+  - name: Temas
     url: '#talks'
     weight: 40
-  - name: Publicacións
+  - name: Actividades
     url: '#featured'
     weight: 50
   - name: Cursos
